@@ -7,4 +7,4 @@
 .DS_Store
 
 # Skip the config.php file
-/config.php
+# /config.php
